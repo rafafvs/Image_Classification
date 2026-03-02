@@ -1,0 +1,20 @@
+0.00001
+
+Training epoch 20
+Training loss: 0.3714
+Valid acc: 0.9560
+Final Test acc: 0.8900
+
+0.0005
+
+Training epoch 20
+Training loss: 0.0442
+Valid acc: 0.9861
+Final Test acc: 0.9564
+
+0.01
+
+Training epoch 20
+Training loss: 0.5122
+Valid acc: 0.6199
+Final Test acc: 0.4855
